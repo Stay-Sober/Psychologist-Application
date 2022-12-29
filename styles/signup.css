@@ -1,0 +1,8 @@
+/*Author: Mopholosi Monyollo student number 220099000*/
+/*header section*/
+main {
+    display: flex;
+    height: 80vh;
+    justify-content: space-around;
+    align-items: center;
+}
